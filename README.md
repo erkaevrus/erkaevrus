@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/erkaevrus/badges/small)](https://www.codewars.com/users/erkaevrus)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=erkrus&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 - My <a href="https://erkaevrus.github.io/CV/">CV</a>
 - My <a href="https://t.me/magistr_py">Telegram</a>

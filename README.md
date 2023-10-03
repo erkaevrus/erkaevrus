@@ -5,7 +5,7 @@ Solved problems on Codewars:
 
 [![codewars](https://www.codewars.com/users/erkaevrus/badges/small)](https://www.codewars.com/users/erkaevrus)
 
-Soled problems on LeetCode:
+Solved problems on LeetCode:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=erkaevrus&theme=dark)](https://github.com/erkaevrus/leetcode-stats)
 

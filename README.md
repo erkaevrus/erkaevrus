@@ -2,6 +2,7 @@
 <p>I,m a Frontend Developer. I'm on the way to mastery.</p>
 
 [![codewars](https://www.codewars.com/users/erkaevrus/badges/small)](https://www.codewars.com/users/erkaevrus)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 - My <a href="https://erkaevrus.github.io/CV/">CV</a>

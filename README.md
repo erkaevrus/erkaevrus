@@ -9,5 +9,5 @@ Solved problems on LeetCode:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=erkaevrus&theme=dark)](https://github.com/erkaevrus/leetcode-stats)
 
-- My <a href="https://erkaevrus.github.io/CV/">CV</a>
-- My <a href="https://t.me/magistr_py">Telegram</a>
+
+- My <a href="https://t.me/erkaevrus">Telegram</a>
